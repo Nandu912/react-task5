@@ -1,0 +1,35 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.calculate-button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}
